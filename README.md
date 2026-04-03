@@ -18,7 +18,6 @@
 🎓  junior @ UC Davis · Electrical Engineering + Mathematics minor
 🧪  undergrad researcher · neural signal processing & BCI systems
 🧠  incoming intern @ Neuralink · SoC digital IC design
-🎵  ABRSM-trained oboist · classical music nerd · synth builder
 ```
 
 ---
