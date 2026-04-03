@@ -57,21 +57,7 @@
 🎼  oboe · piano · guitar · KYDO Orchestra alumni (Korea)
 🔧  guitar pedal design & soldering
 🎹  analog music synthesizer builds
-📐  Putnam Competition & Integration Bee prep
-☕  protein smoothie + hard-boiled eggs + black coffee = morning ritual
 ```
-
----
-
-### 📊 github stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bincchitherock&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000&icon_color=B088C4&title_color=B088C4&text_color=777777" height="160" alt="stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bincchitherock&layout=compact&theme=buefy&hide_border=true&bg_color=00000000&title_color=B088C4&text_color=777777" height="160" alt="top langs"/>
-
-</div>
 
 ---
 
