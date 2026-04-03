@@ -54,7 +54,8 @@
 
 ```text
 🎼  oboe · piano · guitar · KYDO Orchestra alumni (Korea)
-🔧  guitar pedal design & soldering
+🎸  currently learning the bass right now!
+🔧  guitar pedal design 
 🎹  analog music synthesizer builds
 ```
 
