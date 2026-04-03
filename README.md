@@ -53,7 +53,7 @@
 ### 🎶 beyond the bench
 
 ```text
-🎼  oboe · piano · guitar · KYDO Orchestra alumni (Korea)
+🎼  oboe · piano · guitar · KYDO Orchestra alumni
 🎸  currently learning the bass right now!
 🔧  guitar pedal design 
 🎹  analog music synthesizer builds
