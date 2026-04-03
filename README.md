@@ -6,8 +6,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="cute cat typing"/>
-
+<img src="https://media1.tenor.com/m/Cek9YqIUiJUAAAAd/ryo-yamada-ryo.gif" width="200" alt="ryo yamada playing bass"/>
 </div>
 
 ---
