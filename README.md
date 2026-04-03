@@ -19,7 +19,6 @@
 🧪  undergrad researcher · neural signal processing & BCI systems
 🧠  incoming intern @ Neuralink · SoC digital IC design
 🎵  ABRSM-trained oboist · classical music nerd · synth builder
-🌙  night owl who thrives when busy
 ```
 
 ---
