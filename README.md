@@ -25,7 +25,7 @@
 ### 🔬 what i'm working on
 
 - 🧠 **Ramanujan Periodic Subspace** methods for auditory EEG 
-- 📡 **B2BCI device** — co-authored UC patent (Case No. 2026-480)
+- 📡 **B2BCI device** — UC patent (Case No. 2026-480)
 - 🔌 **Neural signal pipeline** in SystemVerilog, C, and MATLAB
 - 📊 **iEEG trust-state decoding** with PSID/DFINE models
 - 🎛️ Head of Projects @ **Neurotech@Davis**
