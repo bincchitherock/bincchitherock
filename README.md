@@ -63,7 +63,7 @@
 
 <div align="center">
 
-*currently dreaming about PhD programs & better neural decoders* 🌙
+*you can reach me at seleneseobinhan@gmail.com* 🌙
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,50:D5F5E3,100:E8DAEF&height=100&section=footer" />
 
