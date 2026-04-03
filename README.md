@@ -2,12 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E8DAEF,50:D5F5E3,100:AED6F1&height=200&section=header&text=hi%20there%20~%20i'm%20seo%20bin%20🧠✨&fontSize=28&fontColor=555555&fontAlignY=35&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=B088C4&center=true&vCenter=true&width=500&lines=EE+%2B+Math+%40+UC+Davis;neural+signals+%E2%86%92+algorithms+%E2%86%92+hardware;building+brains+that+talk+to+machines;also+plays+oboe+%26+builds+synths+%F0%9F%8E%B6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=7EC8E3&center=true&vCenter=true&width=500&lines=EE+%2B+Math+%40+UC+Davis;neural+signals+%E2%86%92+algorithms+%E2%86%92+hardware;building+brains+that+talk+to+machines" alt="Typing SVG" />
 
 <br>
 
 <img src="https://media1.tenor.com/m/Cek9YqIUiJUAAAAd/ryo-yamada-ryo.gif" width="200" alt="ryo yamada playing bass"/>
 </div>
+
 
 ---
 
