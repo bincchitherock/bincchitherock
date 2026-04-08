@@ -13,11 +13,10 @@
 
 ### 🌸 about me
 
-```text
 🎓  junior @ UC Davis · Electrical Engineering + Mathematics minor
 🧪  undergrad researcher · [CHPS Lab](https://www.cphslab.com/) / [BXS Lab](https://bioastro.ucdavis.edu/) / [Neurorobotics Lab](https://moxonlab.bme.ucdavis.edu/)
 🧠  incoming intern @ Neuralink · SoC digital IC design
-```
+
 
 ---
 
