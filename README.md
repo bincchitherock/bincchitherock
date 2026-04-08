@@ -30,10 +30,6 @@
 ![Python](https://img.shields.io/badge/Python-AED6F1?style=flat-square&logo=python&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-D5DBDB?style=flat-square&logo=latex&logoColor=333)
 
-![EEGLab](https://img.shields.io/badge/EEGLab-E8DAEF?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F5CBA7?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-D1F2EB?style=flat-square&logo=linux&logoColor=333)
-
 </div>
 
 ---
