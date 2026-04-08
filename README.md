@@ -6,7 +6,6 @@
 
 <br>
 
-<img src="https://media1.tenor.com/m/Cek9YqIUiJUAAAAd/ryo-yamada-ryo.gif" width="200" alt="ryo yamada playing bass"/>
 </div>
 
 
