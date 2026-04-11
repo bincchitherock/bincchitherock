@@ -38,7 +38,7 @@
 
 ```text
 🎼  oboe · piano · bass guitar · KYDO Orchestra alumni
-🔊  i love learning languages: english (fluent) · korean (fluent) · chinese (HSK 3) · japanese (JLPT N5) 
+🔊  i love learning languages: english (fluent) · korean (fluent) · chinese (HSK L3) · japanese (JLPT N5) 
 ```
 
 ---
