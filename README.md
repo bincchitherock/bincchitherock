@@ -39,7 +39,7 @@
 ```text
 🎼  oboe · piano · bass guitar · KYDO Orchestra alumni
 🔊  i love learning languages: english (fluent) · korean (fluent) · chinese (HSK L3) · japanese (JLPT N5)
-📖  my favorite book of all time is: GEB an eternal golde braid.
+📖  my favorite book of all time is: GEB an eternal golden braid.
    right now, i'm rereading that for the n-th time + robert penrose's road to reality
 ```
 
