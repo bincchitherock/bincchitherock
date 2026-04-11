@@ -37,10 +37,8 @@
 ### 🎶 beyond the bench
 
 ```text
-🎼  oboe · piano · guitar · KYDO Orchestra alumni
-🎸  currently learning the bass right now!
-🔧  guitar pedal design 
-🎹  analog music synthesizer builds
+🎼  oboe · piano · bass guitar · KYDO Orchestra alumni
+🔊  i love learning languages: english (fluent) · korean (fluent) · chinese (HSK 3) · japanese (JLPT N5) 
 ```
 
 ---
