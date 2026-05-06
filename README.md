@@ -8,12 +8,12 @@
   <tr>
     <td align="left">
 
-EE @ UC Davis  
-incoming intern @ [Neuralink](https://neuralink.com/)  
-my portfolio can be found [here](https://bincchitherock.github.io/)  
-저 블로그도 써요 [blog](https://m.blog.naver.com/myquietlife)
+EE @ UC Davis<br>
+incoming intern @ <a href="https://neuralink.com/">Neuralink</a><br>
+my portfolio can be found <a href="https://bincchitherock.github.io/">here</a><br>
+저 블로그도 써요 <a href="https://m.blog.naver.com/myquietlife">blog</a>
 
-    </td>
+  </td>
   </tr>
 </table>
 
