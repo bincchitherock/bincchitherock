@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ### about me
 
 - EE @ UC Davis
