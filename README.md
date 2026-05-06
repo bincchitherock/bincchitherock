@@ -36,8 +36,8 @@
 - 저 블로그도 써요 [blog](https://m.blog.naver.com/myquietlife) 
 ---
 
-<div align="center">
+<div align="center"> 
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE8FF,100:CFE8FF&height=100&section=footer" /> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AED6F1,50:D5F5E3,100:E8DAEF&height=100&section=footer" />
-
-</div>
+</div> 
