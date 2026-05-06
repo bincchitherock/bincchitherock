@@ -16,19 +16,6 @@
 - undergraduate researcher @ [CHPS Lab](https://www.cphslab.com/) · [BXS Lab](https://bioastro.ucdavis.edu/) · [Neurorobotics Lab](https://moxonlab.bme.ucdavis.edu/)
 - incoming intern @ [Neuralink](https://neuralink.com/) · SoC digital IC design
 
----
-
-### tools & languages
-
-<div align="center">
-
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-CAA9E0?style=flat-square&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-F4B9C2?style=flat-square&logo=mathworks&logoColor=white)
-![C](https://img.shields.io/badge/C-B5D8A0?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-AED6F1?style=flat-square&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-D5DBDB?style=flat-square&logo=latex&logoColor=333)
-
-</div>
 
 ---
 
