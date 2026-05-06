@@ -10,9 +10,8 @@
 
 ### about me
 
-- junior @ UC Davis · Electrical Engineering + Mathematics minor
-- undergraduate researcher @ [CHPS Lab](https://www.cphslab.com/) · [BXS Lab](https://bioastro.ucdavis.edu/) · [Neurorobotics Lab](https://moxonlab.bme.ucdavis.edu/)
-- incoming intern @ [Neuralink](https://neuralink.com/) · SoC digital IC design
+- EE @ UC Davis
+- incoming intern @ [Neuralink](https://neuralink.com/)
 
 
 ---
