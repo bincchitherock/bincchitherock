@@ -1,4 +1,3 @@
 - 電気工学科に在籍している大学3年生です
-- incoming intern @ [Neuralink](https://neuralink.com/)  
 - my portfolio can be found [here](https://bincchitherock.github.io/)  
 - 블로그도 써요 [blog](https://m.blog.naver.com/myquietlife)
