@@ -43,8 +43,7 @@
    right now, i'm rereading that for the n-th time + robert penrose's road to reality
 ```
 
-for the korean readers who visit this github, check out my [blog](https://m.blog.naver.com/myquietlife) to learn more about who i am in my day to day thoughts!
-
+저 블로그도 써요 [blog](https://m.blog.naver.com/myquietlife). 
 ---
 
 <div align="center">
