@@ -18,6 +18,7 @@
 ---
 
 ### 그 외
+- my portfolio can be found [here](https://bincchitherock.github.io/)
 - 저 블로그도 써요 [blog](https://m.blog.naver.com/myquietlife) 
 ---
 
